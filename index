@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/7c7e146e94.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <img src="C:\Users\91953\OneDrive\Desktop\vsc\html_works\images\Instagram_Logo_Large.png" width="200" height="100">
+    <form action="">
+        
+        <input type="text" id="a1" placeholder="enter username"><br><br>
+       
+        <input type="password" id="p1" placeholder="enter your password"><br><br>
+        <button>login</button>
+        <h3>or</h3>
+        <i class="fa-brands fa-facebook"></i>
+        <a href="https://www.facebook.com/">login in with facebook</a><br>
+        <a href="https://www.instagram.com/accounts/password/reset/">forgot password?</a><br>
+
+
+    </form>
+    
+</body>
+</html>
